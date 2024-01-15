@@ -39,6 +39,9 @@ Feel free to use and modify PoseFit Tracker according to your needs. 💼
 Happy Tracking! 🏃‍♀️🏋️‍♀️
 
 
+
+![Screenshot 2024-01-15 211925](https://github.com/amu132/Ai-gym-/assets/125115946/132a9793-4251-4105-bbd7-c9f8b3aa1b29)
+
 <img src="C:\Users\Amogh Gaikwad\Pictures\Screenshots\Screenshot%202024-01-15%20211925.png" width="400" alt="Screenshot 1">
 
 
