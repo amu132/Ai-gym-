@@ -1,4 +1,4 @@
-# 🏋️‍♂️ PoseFit Tracker 🤖
+# 🏋️‍♂️ AI GYM ASSITANT 🤖
 
 Welcome to PoseFit Tracker - Your Real-time Pose Recognition Fitness Companion!
 
