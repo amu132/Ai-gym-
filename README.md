@@ -37,3 +37,5 @@ Feel free to explore or train your own models! 🤓
 Feel free to use and modify PoseFit Tracker according to your needs. 💼
 
 Happy Tracking! 🏃‍♀️🏋️‍♀️
+![Screenshot 1](C:\Users\Amogh Gaikwad\Pictures\Screenshots\Screenshot%202024-01-15%20211925.png)
+
