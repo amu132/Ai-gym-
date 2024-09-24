@@ -54,7 +54,8 @@ if selected_exercise == "Deadlift" or "Push-Ups" or "Bicep Curl" or "Squat":
 
 
 
-
+if __name__='__main__':
+    app.run=(debug=True)
 
 if selected_exercise == "":
     
